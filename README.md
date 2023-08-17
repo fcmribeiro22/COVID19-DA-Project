@@ -24,5 +24,4 @@ This section contains SQL queries used to analyze the COVID-19 data. Queries cov
 
 If you have any questions, suggestions, or just want to connect, feel free to reach out to me:
 
-- Email: fcmribeiro22@gmail.com
-- LinkedIn: [Fábio Ribeiro](www.linkedin.com/in/fcmribeiro)
+ Via [LinkedIn](https://www.linkedin.com/in/fcmribeiro) or [Email](mailto:fcmribeiro22@gmail.com).
