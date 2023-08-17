@@ -10,15 +10,16 @@ This project is designed to explore relationships and trends within COVID-19 dat
 
 The goal of this project is to utilize data analytics techniques to examine COVID-19 data and derive valuable insights.
 
-## Data Analysis
+## Skills used
 
-This section contains SQL queries used to analyze the COVID-19 data. Queries cover topics such as:
+- Joins
+- CTE's
+- Temp Tables
+-  Windows Functions
+-  Aggregate Functions
+-  Creating Views
+-  Converting Data Types
 
-- Basic data exploration
-- Relationship between cases and deaths
-- Infection rates and population percentages
-- Comparisons across countries and continents
-- Vaccination data analysis
 
 ## Contact
 
