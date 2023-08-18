@@ -6,7 +6,7 @@ Welcome to my COVID-19 Data Analytics Project repository! This project focuses o
 
 This project is designed to explore relationships and trends within COVID-19 data, investigating the impact of the pandemic on different countries, continents, and populations. By performing data analysis and visualization, I aim to provide insights that help us understand the pandemic's dynamics.
 
-# Introduction
+## Introduction
 
 The goal of this project is to utilize data analytics techniques to examine COVID-19 data and derive valuable insights.
 
